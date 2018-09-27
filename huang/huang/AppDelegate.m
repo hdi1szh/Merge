@@ -20,6 +20,7 @@
     
     NSLog(@"mster");
     NSLog(@"xiugai_1");
+    NSLog(@"master1");
     return YES;
 }
 
