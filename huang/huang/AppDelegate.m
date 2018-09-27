@@ -20,6 +20,7 @@
     
     NSLog(@"mster");
     NSLog(@"1");
+    NSLog(@"2");
     return YES;
 }
 
